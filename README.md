@@ -74,8 +74,7 @@ python-dotenv for environment variables
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mrsinghkd/quizcraft.git
-cd quizcraft
+git clone https://github.com/AshutoshkumarVesit/QuizCraft.git
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -209,3 +208,4 @@ graph TD
 - Styled user authentication forms  
 ![Login](screenshots/login.png)  
 ![Register](screenshots/register.png)
+
